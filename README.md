@@ -1,3 +1,27 @@
+## Steps to Run the Application Locally
+
+1. **Clone the Repository**  
+   Clone the project to your local machine using the following command:
+
+   `git clone https://github.com/rampappula555/accuknox.git`
+
+2. **Navigate to the Project Directory**  
+   Change into the project directory by running:
+
+   `cd accuknox`
+
+3. **Install Dependencies**  
+   After cloning the project, install the required dependencies by executing:
+
+   `npm install`
+
+4. **Start the Application**  
+   Once the dependencies are installed, you can start the application with:
+
+   `npm start`
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
