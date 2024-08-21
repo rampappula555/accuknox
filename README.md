@@ -1,8 +1,8 @@
 # Steps to locally run the application
 
- Clone this project to your local machine using  ### `git clone <repo address>`
+ Clone this project to your local machine using  ### `git clone https://github.com/rampappula555/accuknox`
  
- After cloning the project to install dependencies run the git command ### `npm install`
+ After cloning the project to install dependencies run the npm command ### `npm install`
 
  And than to start the application execute command ### `npm start`
 
