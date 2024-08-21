@@ -3,22 +3,22 @@
 1. **Clone the Repository**  
    Clone the project to your local machine using the following command:
 
-   `git clone https://github.com/rampappula555/accuknox.git`
+   ### `git clone https://github.com/rampappula555/accuknox.git`
 
 2. **Navigate to the Project Directory**  
    Change into the project directory by running:
 
-   `cd accuknox`
+   ### `cd accuknox`
 
 3. **Install Dependencies**  
    After cloning the project, install the required dependencies by executing:
 
-   `npm install`
+   ### `npm install`
 
 4. **Start the Application**  
    Once the dependencies are installed, you can start the application with:
 
-   `npm start`
+   ### `npm start`
 
 ---
 
