@@ -3,7 +3,7 @@
 1. **Clone the Repository**  
    Clone the project to your local machine using the following command:
 
-   ```git clone https://github.com/rampappula555/accuknox```
+   ```[git clone https://github.com/rampappula555/accuknox.git```
 
 2. **Navigate to the Project Directory**  
    Change into the project directory by running:
