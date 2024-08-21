@@ -1,3 +1,11 @@
+# Steps to locally run the application
+
+ Clone this project to your local machine using  ### `git clone <repo address>`
+ 
+ After cloning the project to install dependencies run the git command ### `npm install`
+
+ And than to start the application execute command ### `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
